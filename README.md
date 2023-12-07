@@ -7,3 +7,10 @@
 
 
 执行命令 cd /root/ && bash run.sh
+
+
+## 更多AI绘画/视频教程
+
+[https://github.com/hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
+
+
